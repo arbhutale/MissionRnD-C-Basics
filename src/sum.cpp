@@ -10,8 +10,9 @@ ERROR CASES:
 
 NOTES:
 */
-
 int sum(int a, int b)
 {
-	return 0;
+	int c;
+	c = a + b;
+	return c;
 }
